@@ -1,0 +1,81 @@
+Comparing strings
+
+.equals
+
+String name1 = "amanda"; //   ex 1024 object reference an object containing amanda
+String name2 = "MEgan"; // ex 1298 object reference an object containing amanda
+
+if(name1 == name2) // is name1 and name2 referencing the same objects      1024!1298 
+
+if(name1.equals(name2))
+	System.out.print("Same name");
+	
+
+	
+	if (letterGrade == 'A')
+		gradePoint = 4;
+		
+	else if(letterGrade == 'B')
+		gradePoint = 3;
+		
+	
+
+	
+CLASSES
+
+for ASSIGNMENT #2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+TocEntry 
+{
+	//methods
+	private String chapter;
+	private int page;
+
+}
+
+public final int TOCSIZE = 100;
+TocEntry toc[] new TocEntry[TOCSIZE]; // an array of objects , toc is an object
+int toc_curlen = 0
+
+
+//inside driver program
+toc[curlen++] = new TocEntry(nameOfChapter, pageNumber)// creating first new object 
+
+toc[curlen++] = new TocEntry(chapterT, pNumber); // create new object
+
+// can do this on one line or can do it with multiple lines 
+Camelot....................................................1 // TAKE for ex 60 characaters for line - subtract Name title and page number, print ........
+
+
+
+class Pt extends Point // extends --> inheritance, takes base capabilities from point class and sendds it to Pt
+
+Point class------                                    ------->>>>>>>>>>>>>             pt class
+xPoint()                              methods go to  -------->>>>>>>>>>>>			sgrt()
+yPoint()
+
+
+Inheritance creates a derived class Pt that takes all the capablities from Point class without affecting original code
+ 
+----------
+
+Class Point implements Cloneable
+
+	TocEntry Class
+	{
+	
+	public String	toString() // basic method from the object class, all classes have this 
+	{
+		return "(" + x + "," + y + ")";
+	}
+	
+
+	
+	
+Object Methods // 
+	toString
+	
+	
+//polymorphism is a way to ( try to create objects to get things done)
+// objects that send messages to each other, dont call functions to call other functions
+

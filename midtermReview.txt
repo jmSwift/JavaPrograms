@@ -1,0 +1,104 @@
+.lab 12
+
+
+
+while(choice != 4)
+
+{
+	if(choice = 1)ol
+		
+		fscanf(ofPtr, "%d%29%lf", %accNum, name, &balance);
+		
+		while(!feof(ofPtr)
+		{
+			if(balance > 0)
+				printf("%d%s %.21f", accNum, name, );
+				fscanf(ofPtr,"%d%s %.21f", &accNum, name, &balance);
+				
+				
+etc
+
+
+extra credit 
+
+
+
+
+
+///
+
+
+gcc infile -o outfile// print to an outfile text
+
+4 ways to edit file
+vim
+vi 
+gedit
+NANO
+
+
+cat file.txt // print out file contents
+
+system configuration files stored:
+/etc
+
+
+
+chooser(array,5); // 5 max size, size of 
+
+logarithm function:
+log(x);
+
+math.h etc
+
+
+5/ *(array)// 5 divided defrence value of pointer
+5/ *ptr // 
+
+cp file1.txt file2.txt // copy one file to another
+
+whoami/ what user is logged infile
+
+mkdir name// make directory
+
+whats a directory
+
+temporary files:
+tmp
+
+%lf for d%
+type declarations
+
+isspace function// learn
+
+int isspace ( int c );
+
+isgraph // anything but a space or newline character
+
+puts(" ");
+
+strcpy(stringB, stringB)// copy string a to string balance
+
+
+
+
+command line arguments
+
+int main(int argc, char *argv[]);
+
+argc number of arguments receiving
+
+if(argc != 3) // if not 3 arguments
+
+
+
+filename.txt arg1 arg2
+
+// read and write from a file
+
+pg 447 how to read and write // r+ readdd
+
+intPtr = fopen(argv[1], "r");//read
+
+intPtr = fopen(argv[1], "w");// write
+

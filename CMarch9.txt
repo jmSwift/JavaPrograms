@@ -1,0 +1,46 @@
+Pointers
+
+
+10001 , 10009
+
+int x;  // address 10001
+
+printf(%p", &x); // prints out 10001
+
+pointer address to another location
+-------------------------------------------------
+
+Vault A            
+1	go to vault b6	(pointer a)              
+2
+3
+4
+5
+
+Vault B
+1
+2
+3
+4
+5
+6
+
+
+
+int *ptrA;
+int x;
+ptrA = &x;   // ptrA = address of x
+
+int ptrB = &ptrA;
+
+*ptrA = 7; // value for x = 7
+
+
+
+*ptrC = 5; //
+
+z = *ptrA * *ptrC; // z = 35
+
+printf("%d", &ptrA);
+
+

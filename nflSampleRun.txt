@@ -1,0 +1,91 @@
+C:\Users\jose\Desktop\JavaPrograms>java NFL
+The Dallas Cowboys won 62.38 of their games last season
+The Indianapolis Colts won 33.47 of their games last season
+The New Orleans Saints won 97.73 of their games last season
+The Buffalo Bills won 68.94 of their games last season
+The Denver Broncos won 26.84 of their games last season
+The San Francisco 49ers won 93.32 of their games last season
+The Green Bay Packers won 95.30 of their games last season
+The Minnesota Vikings won 9.40 of their games last season
+
+After sorting the data is
+The Dallas Cowboys are ranked 4
+The Indianapolis Colts are ranked 3
+The New Orleans Saints are ranked 8
+The Buffalo Bills are ranked 5
+The Denver Broncos are ranked 2
+The San Francisco 49ers are ranked 6
+The Green Bay Packers are ranked 7
+The Minnesota Vikings are ranked 1
+
+Tony Romo has been selected to be drafted in Round 3
+Andrew Luck has been selected to be drafted in Round 3
+Ben Roethlisberger has been selected to be drafted in Round 4
+Aaron Rodgers has been selected to be drafted in Round 3
+Sam Bradford has been selected to be drafted in Round 4
+Toby Gerhart has been selected to be drafted in Round 1
+Reggie Bush has been selected to be drafted in Round 3
+Drew Brees has been selected to be drafted in Round 1
+Landry Jones has been selected to be drafted in Round 3
+Roy Finch has been selected to be drafted in Round 1
+Gavin Escobar has been selected to be drafted in Round 2
+Joe Flacco has been selected to be drafted in Round 4
+Mike Goodson has been selected to be drafted in Round 4
+Demarco Murray has been selected to be drafted in Round 2
+Tom Brady has been selected to be drafted in Round 2
+Brandon Bostick has been selected to be drafted in Round 2
+Trevor Knight has been selected to be drafted in Round 1
+Anthony Fasano has been selected to be drafted in Round 4
+Ryan Broyles has been selected to be drafted in Round 3
+Brett Favre has been selected to be drafted in Round 4
+Eli Manning has been selected to be drafted in Round 2
+Lance Dunbar has been selected to be drafted in Round 1
+Robert Griffin III has been selected to be drafted in Round 3
+Geno Smith has been selected to be drafted in Round 4
+Peytton Manning has been selected to be drafted in Round 2
+Johnny Manziel has been selected to be drafted in Round 1
+Blake Bell has been selected to be drafted in Round 4
+Jeff Demps has been selected to be drafted in Round 2
+Arian Foster has been selected to be drafted in Round 3
+Adrian Peterson has been selected to be drafted in Round 1
+Garrett Celek has been selected to be drafted in Round 2
+Jonathan Franklin has been selected to be drafted in Round 1
+
+Round :1 Team:Minnesota Vikings selected: Toby Gerhart
+Round :1 Team:Denver Broncos selected: Drew Brees
+Round :1 Team:Indianapolis Colts selected: Roy Finch
+Round :1 Team:Dallas Cowboys selected: Trevor Knight
+Round :1 Team:Buffalo Bills selected: Lance Dunbar
+Round :1 Team:San Francisco 49ers selected: Johnny Manziel
+Round :1 Team:Green Bay Packers selected: Adrian Peterson
+Round :1 Team:New Orleans Saints selected: Jonathan Franklin
+
+Round :2 Team:Minnesota Vikings selected: Gavin Escobar
+Round :2 Team:Denver Broncos selected: Demarco Murray
+Round :2 Team:Indianapolis Colts selected: Tom Brady
+Round :2 Team:Dallas Cowboys selected: Brandon Bostick
+Round :2 Team:Buffalo Bills selected: Eli Manning
+Round :2 Team:San Francisco 49ers selected: Peytton Manning
+Round :2 Team:Green Bay Packers selected: Jeff Demps
+Round :2 Team:New Orleans Saints selected: Garrett Celek
+
+Round :3 Team:Minnesota Vikings selected: Tony Romo
+Round :3 Team:Denver Broncos selected: Andrew Luck
+Round :3 Team:Indianapolis Colts selected: Aaron Rodgers
+Round :3 Team:Dallas Cowboys selected: Reggie Bush
+Round :3 Team:Buffalo Bills selected: Landry Jones
+Round :3 Team:San Francisco 49ers selected: Ryan Broyles
+Round :3 Team:Green Bay Packers selected: Robert Griffin III
+Round :3 Team:New Orleans Saints selected: Arian Foster
+
+Round :4 Team:Minnesota Vikings selected: Ben Roethlisberger
+Round :4 Team:Denver Broncos selected: Sam Bradford
+Round :4 Team:Indianapolis Colts selected: Joe Flacco
+Round :4 Team:Dallas Cowboys selected: Mike Goodson
+Round :4 Team:Buffalo Bills selected: Anthony Fasano
+Round :4 Team:San Francisco 49ers selected: Brett Favre
+Round :4 Team:Green Bay Packers selected: Geno Smith
+Round :4 Team:New Orleans Saints selected: Blake Bell
+
+
+C:\Users\jose\Desktop\JavaPrograms>

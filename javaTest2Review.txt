@@ -1,0 +1,71 @@
+Object Oriented programming
+	is the programming paradigm based around objects and a heirarchy of classes. 
+	
+command -Line argument
+	is when the runtime systems passes arguments to the programs main method 
+	
+gui components
+	are objects in which the user interacts via the mouse keyboard or other form of input.Menus that enable the user to effectively perform tasks or certain events in a programming
+	
+	JFrame, JMenu, JSlider etc
+	swing
+	
+event processing
+	the code that responds to the events performed by the user ;
+	
+java graphics
+	the use of JFrame to provide content to the user in a window
+	import javax.swing.JFrame;
+	
+	JDframe window = new JFrame();
+	window.setSize(640,480);
+	
+Lists
+	Array of objects: 
+		
+	
+	Linked Lists:
+		ArrayList<String> list;
+Stacks
+	
+	
+	
+Java Collections/ Containers9
+	Collection:
+	data structure that holds references to other objects
+	predefined data structures from the java api
+	provide efficient methods that organize store and reterive data without knowing how it was stored, reduces application time
+	
+	A benefit of Java containers/collections is that an algorithm can be written once, made to work for any type, and retains strong type checking.
+	
+	Containers:
+	
+Order of Magnitude concepts as they apply to algorithm
+	
+Streams (file processing, networking)
+
+Use of Integrated Development Environments(IDEs)
+	
+	
+Designing classes and instantiating them as appropriate
+
+Exception handling
+ 8uuuure	enables you to create fault tolerant programs that can resolve or handle exceptions and continue executing as if no problems were encountered
+	
+generics
+	List<String> list = new ArrayList<String>();
+	list.add("hello");
+	String s = list.get(0);   // no cast
+	
+	Elimination of casts.
+	Enabling programmers to implement generic algorithms.
+	
+	able types (classes and interfaces) to be parameters when defining classes, interfaces and methods.
+	
+	
+Evaluation of Expressions/ Postfix Arithmetic
+
+Stack frames
+	
+
+	LinkedList<STRING> list 

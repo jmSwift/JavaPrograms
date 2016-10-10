@@ -1,0 +1,5 @@
+generics
+
+	an algorithm can be written once '
+	
+stack class 

@@ -1,0 +1,19 @@
+char word[20] = "string";
+
+char word[20] = {'s','t','r','i','n','g'};
+
+char *word = "string";
+
+char x = getchar();
+		putchar();
+		
+		
+pg 338 functions
+
+int islower(intc)
+
+int isupper(intc)
+
+and others
+		
+		

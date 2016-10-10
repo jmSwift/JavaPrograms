@@ -1,0 +1,4 @@
+csc 111                A
+csc 101                B
+Csc 121				   A
+csc 115                A

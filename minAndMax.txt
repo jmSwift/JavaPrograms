@@ -1,0 +1,48 @@
+import java.util.*;
+
+public class minAndMax
+{
+	public static Scanner input = new Scanner(System.in);
+	
+	public static int myMax(int x, int y)
+	{
+		int highest_value = 0;
+		
+		if( x > y)
+			highest_value = x;
+		else
+			highest_value = y;
+	
+		return highest_value;
+	}
+	
+	public static int myMin(int x, int y)
+	{
+		int lowest_value = 0;
+	
+		if(x <y)
+			lowest_value = x;
+		else	
+			lowest_value = y;
+		
+		return lowest_value;
+	}
+	
+	public static void main(String[] args)
+	{
+		System.out.print("Enter two numbers and I will find your max");
+		int firstNum = input.nextInt();
+		int secondNum = input.nextInt():
+		
+		System.out.print("The larger number is: " + myMax(firstNum, secondNum));
+		
+		System.out.print("Enter two numbers and I will find the lowest number: ");
+		int thirdNum = input.nextInt();
+		int fourthNum = input.nextInt();
+		
+		System.out.print("The smaller number is: " + myMin(firstNum, secondNum));
+		
+
+	}
+	
+}

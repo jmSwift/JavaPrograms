@@ -1,0 +1,17 @@
+BYTE myArray 4,10, 6
+
+printLowest MACRO
+
+BYTE myArray 4,10, 6
+
+L1:
+	mov edx, OFFSET myArray 
+	mov ecx, LENGTHOF myArray
+	cmp dl,myArray + 1
+	jl smallest
+	inc myArray
+	jmp L1
+	
+smallest:
+		mov dl, myArray + 1
+		inc myArray

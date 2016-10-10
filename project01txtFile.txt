@@ -1,0 +1,7 @@
+Token parsing program that takes in an assignment/ expression performs addition, subtraction, multiplication, and/or division, gives the result with one of the following terminals {‘=‘ | ‘;’ | ‘.’} 
+.Also performs exponential expressions with the new added code.
+
+
+Group members: Rudy Leyva, Jose Meza
+
+

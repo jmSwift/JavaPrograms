@@ -1,0 +1,26 @@
+INCLUDE Irvine32.inc
+
+.data
+val1 WORD 1000h
+val2 WORD 2000h
+arrayB BYTE 10h, 20h, 30h, 40h, 50h,
+arrayW WORD 100h, 200h, 300h
+arrayD DWORD 10000h, 20000h
+
+.code
+main PROC
+
+	;movzx ---------
+	mov bx, 0A69Bh
+	movzx eax, bx                 ; EAX = 0000A69BH
+	movzx edx, bl                 ; EDX = 0000009Bh
+	movzx cx, bl                  ; cx = 0009Bh
+	
+	;movsx --------
+	mov bx, 0A69Bh                
+	movsx eax, bx                 ;eax = FFFFA69Bh
+	movsx edx, bl                 ;edx = FFFFFF9Bh
+	mov bl, 7BH
+	movsx cx, bl                  ; cs = 007Bh
+	
+	

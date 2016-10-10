@@ -1,0 +1,38 @@
+math functions page 161
+
+#include<math.h>
+
+arrays
+
+int arrayName[5];
+printf("%d", arrayName[0]);6
+
+int arrayName[5] = {0}; // assigns 0 to all the values
+
+
+
+continuous memory
+
+
+
+
+#Define SIZE 10 // Maximum size of array       ---------      CONSTANT--------------------------------------
+
+gcc -lm Bits.c -o 1// use tac-lm to compile #include<math.h> programs
+
+int a[3][3] = {0};
+int a[3][3] = {{0,1,2},{3,4,5},{6,7,8}};
+
+a[0][0] a[0][1] a[0][2]
+a[1][0] a[1][1] a[1][2]
+
+pg 250
+
+x = y % 10; // gives u the far right number of a 10 digit number
+y= y/10 cuts off the far right number
+
+1 + (rand()% 100) // gives u number from 1-100;
+
+srand(time(NULL));
+
+1

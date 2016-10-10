@@ -1,0 +1,138 @@
+x = 0;
+system.out.println(1/x);
+// by zero exception
+
+
+******************************************************
+a()
+	b()
+		c()
+		
+
+
+
+
+b()
+{
+	Try
+	{
+		c()
+	}
+	Catch(Exception e)
+	{ 
+	.........
+	}
+}
+
+
+	public void c()
+	{
+			Try
+			{
+				double y = 1/x;
+				system.out.println(y);
+			}
+			catch(Exception e)// handles all division
+			{
+				system.out.println(" by 0 attempts");
+			}
+
+	}
+
+****************************************************
+Scanner s = new Scanner(System.in);
+
+int x= s.nextInt(), "Zero"                  
+
+numeric_Exception e                   // specific types of exceptions
+catch(DIVZERO_Exception e)            // specific types of exceptions
+
+
+
+*****************************************************
+int [] values = new int[10];
+
+values[2] = 15;
+
+value[16] = 32; // Array index out of bounds e
+
+catch('ArrayIndexOutOfBounds');
+
+
+
+********************************************
+int x = 2^31-1;
+x++;
+sop(x); /////////////// the largest negative number
+
+float x = 2^31-1
+x++
+sop(x);
+
+
+
+
+
+**********************************************
+
+	for(ii)
+	{
+		int [][]x = new int[1000]; // Dynamically allocated
+		x[i++] = new int[10000000];
+	}
+
+	
+**************************************************** ////////////// NEW                Input
+INPUT
+
+STREAM  //// SEQUENCE OF BYTES
+
+InputSteamReader isr = new InputStreamReader(System.in);
+
+BufferedReader input = new BufferedReader(isr);            //// input characters
+
+Try
+{
+	String line = input.ReadLine();
+	int x = Integer.ParseInt(line);
+	+
+}
+Catch(Exception e) // handles all errors
+{
+
+}
+
+
+*******************************
+
+public int pop()
+{
+	if(sp == 0)
+		////return -1; 
+		Throw StackIsEmptyException;
+	else
+		return(--sp);
+}
+
+
+public<E> pop // <E> doesnt define type of variable until the program is run
+{
+	return theStack[--sp];
+}
+
+
+**********************************
+Point p = new Points(3,4;
+
+	p.moveTo(5,6);
+	
+	
+DO NOT use ACCESSORS
+
+RESERVED WORD
+	protected --> can be accessed by the derived class
+	
+
+
+
+

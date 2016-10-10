@@ -1,0 +1,27 @@
+Pointer c notes
+
+
+
+int y,z
+
+int pt1;
+
+int *ptq = &y;
+
+int *ptq++ = &z;
+
+
+
+
+
+*aPtr // will print out value
+
+arrayValues(array);
+
+or 
+
+arrayValues(&array[0]);
+
+
+ptr// will print out address
+*ptr// will print value

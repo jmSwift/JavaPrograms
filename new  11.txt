@@ -1,0 +1,23 @@
+every member method is
+
+publiv void moveTo(Object this, int x, int y)// implied Objec this set by the java runtime from the actual object that is running it
+//this paramemeter contains the same address of the object
+
+moveTo()
+this.x = newX
+this.y = newY
+
+Point p = new Point(3,4)
+
+
+if marked static// there is only one place in memory the value is stored, no matter how many instances. it will change all the values
+
+public static void setTeamAverage
+
+vTable ( fancy array)
+
+the vTable unltimately ends up being indirect pointers to mobe to methods
+
+
+public class BaseballPlayer
+{

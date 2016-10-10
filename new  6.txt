@@ -1,0 +1,8 @@
+import java.util.LinkedList;
+import java.util.ListIterator;
+
+public class queue
+{
+	public static void main(String[] args)
+	{
+		Queue myQueue = new Queue

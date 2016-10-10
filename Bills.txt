@@ -1,0 +1,3 @@
+Bicycle 	562.90
+Groceries 	138.43
+Hotel 		612.00

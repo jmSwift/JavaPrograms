@@ -1,0 +1,71 @@
+grep sed
+
+
+
+pt_p* ^ xyz // find letters with p and letters not with xyz
+
+
+
+HASH
+
+
+enter string:P@ssWord
+
+hash : 984trgfbgs5sterig9rkegegvregv
+
+BITFOLDING
+
+
+
+make new output file
+
+word add to all the other words from the same file
+apple becomes apple+ orange
+
+
+apple 
+banana
+orange
+pear 
+
+becomes-------
+
+AppleApple
+AppleBanana
+AppleOrange
+ApplePear
+etc
+
+
+#Word@Word#
+WordWord
+
+
+make new word list
+#word@
+
+Ant
+Bear
+Cat
+
+make lowercase first
+
+oant
+1ant
+etc
+0bear
+1bear
+1cat
+
+
+then add symbol
+oand@
+oant#
+oant$
+oant%
+1ant@
+1ant#
+1ant$
+1ant%
+
+symbols 1-0

@@ -1,0 +1,24 @@
+Below is the final text of Assignment #3 as specified in the syllabus.
+
+Due: April 23, 2015!  (PLEASE NOTE DUE DATE!!!)
+
+Write a "menu-driven" program that reads a paragraph from the keyboard and processes it in the following fashion:
+
+
+    Count and display number of characters
+
+    Count and display number of words
+
+    Count and display number of sentences
+
+    Count and display number of letters that are equal third letter of your last name
+
+    Count and display number of capital letters
+
+    Count and display number of vowels 
+
+
+ 
+
+Terminate the paragraph with special character (like @, or #, or $, or %,or &).
+Display results on screen.

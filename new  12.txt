@@ -1,0 +1,64 @@
+serialization:
+
+	serialization is the process of saving state of a java object to a sequence of bytes
+	
+	import java.io.Serializable
+		
+	public class Student implements Serializable{
+		private String studentName;
+			
+		public String getStudentName(){
+		return studentName;
+		}
+		
+		public void setStudent(String currentName)
+		this.studentName = currentName;
+		}
+	}
+	
+	Student student = new Student();
+	student.setStudent("jose Meza");
+	
+	FileOutputStream fos = new FileOutputStream(
+	ObjectOutputStream oos
+	oos.writeObject(stddeunt)
+	fos
+	oos.close
+	
+	
+
+can be sent to a network or stored in a file.
+
+	deserialization is the process of building the object state back from a network from a stored file
+
+commandLINE processing:
+
+	command line processing is when you type a string at the java at runtime and the java compiler does something with it
+
+accessors:
+ are methods within a class that return a variable
+
+mutators:
+ methods tat change or alter the value of a variable in class
+ 
+inheritatnce:
+	is useful for java because it allows you to create a drived class from a pre-existing class. this allows you to add code without modifying the existing code, it also gives you access to the methods of the super class.
+	
+random;
+	Random randy = new Random();
+	int dieRoll = ((randy.nextInt(6) + 1) + (randy.nextInt(6) + 1) + (randy.nextInt(6) + 1));
+	
+evaluation expression/postfix arithmetic
+	in postfix form the operator is kept after the operands. EX a+b can be written in AB+ postfix form 
+	
+stack frames: when we use threading in java various threads are created. the threads are invoked as last in first out form
+
+list array of objects.
+	array of objects can be used to store collections of objects so we dont have to declare many different variables
+	
+Streams(file processing) streams are collections of bytes used to store data which is to be used in input/output
+
+ide:
+	used to develop, debug, deploy and maintain softwares easily
+	
+

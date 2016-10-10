@@ -1,0 +1,66 @@
+
+getVowels PROC
+;FIND TOTAL COUNT OF VOWELS
+
+	mov edx,OFFSET prompt1		;Input paragraph, to end enter '%'
+	call WriteString
+	mov number_of_vowels,0 ; initialize vowels to 0
+	
+L1:
+	call ReadChar				
+	call displayEvry			
+	
+	cmp AL,Sentinel                     
+	jne NOT_QUITF	
+	mov edx,OFFSET prompt2           
+	call WriteString
+	jmp QUITF  ;display result procedure
+
+NOT_QUITF:
+	cmp AL,'A'					
+	jne NOT_A					
+	inc number_of_vowels
+NOT_A:
+	cmp AL,'a'					
+	jne NOT_aa					
+	inc number_of_vowels
+NOT_aa:
+	cmp AL,'E'
+	jne NOT_E
+	inc number_of_vowels
+NOT_E:
+	cmp AL,'e'
+	jne NOT_ee
+	inc number_of_vowels
+NOT_ee:
+	cmp AL,'I'
+	jne NOT_I
+	inc number_of_vowels
+NOT_I:
+	cmp AL,'i'
+	jne NOT_ii
+	inc number_of_vowels
+NOT_ii:
+	cmp AL,'O'
+	jne NOT_O
+	inc number_of_vowels
+NOT_O:
+	cmp AL,'o'
+	jne NOT_oo
+	inc number_of_vowels
+NOT_oo:
+	cmp AL,'U'
+	jne NOT_U
+	inc number_of_vowels
+NOT_U:
+	cmp AL,'u'
+	jne NOT_VOWEL_FLAG
+	inc number_of_vowels
+
+NOT_VOWEL_FLAG:
+	jmp L1					
+QUITF:           ;display result procedure:
+	call DISP_VOW
+	
+	
+	getVowels ENDP
